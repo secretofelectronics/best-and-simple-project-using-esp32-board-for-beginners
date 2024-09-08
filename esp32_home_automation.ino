@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 // Replace with your network credentials
-const char* ssid = "TECNO POVA 5G";
-const char* password = "9981045220";
+const char* ssid = "enter your ssid";
+const char* password = "enter your password";
 
 // Define LED pins
 const int led1Pin = 2;   // LED 1 on GPIO 2
